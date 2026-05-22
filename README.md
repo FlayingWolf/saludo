@@ -8,20 +8,6 @@ Además, integra información del clima en tiempo real a través de la **API de 
 
 ---
 
-## ✅ Requisitos Cumplidos
-
-- ✅ **Arquitectura CSR** (Controllers, Services, Repositories)
-- ✅ **Base de Datos relacional** con Hibernate + JPA
-- ✅ **5 Controllers** con **22 endpoints totales**
-- ✅ **Global Exception Handler** para manejo centralizado de errores
-- ✅ **System.out.println()** para visualizar flujo
-- ✅ **DTOs** para transferencia de datos
-- ✅ **Relaciones @OneToOne** bidireccionales
-- ✅ **API Externa** (Open-Meteo Weather)
-- ✅ **Maven** para gestión de dependencias
-
----
-
 ## 🛠️ Tecnologías Utilizadas
 
 - **Java 17+**
