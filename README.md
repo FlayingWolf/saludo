@@ -8,13 +8,6 @@ Además, integra información del clima en tiempo real a través de la **API de 
 
 ---
 
-## 👥 Autores
-
-- **Sebastian Ramirez** (FlayingWolf)
-- **Miguel Angel Gutierrez Vera** (Migueldinho)
-
----
-
 ## ✅ Requisitos Cumplidos
 
 - ✅ **Arquitectura CSR** (Controllers, Services, Repositories)
