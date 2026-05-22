@@ -832,7 +832,7 @@ public class ResponseWeatherDto {
 }
 ```
 
-## 👨‍💻 Autores
+## 👥 Autores
 
 - **Miguel Gutierrez (Migueldinho):** [GitHub](https://github.com/Migueldinho)
 - **Sebastian Ramirez (FlayingWolf):** [GitHub](https://github.com/FlayingWolf)
